@@ -1,0 +1,19 @@
+{
+  "name": "music-admin-backend",
+  "version": "1.0.0",
+  "description": "音乐小程序云开发后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1733865392@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.6",
+    "koa2-cors": "^2.0.6",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
